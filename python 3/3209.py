@@ -1,4 +1,3 @@
-#em progresso
 n = int(input())
 list = []
 
